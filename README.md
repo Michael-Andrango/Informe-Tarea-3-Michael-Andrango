@@ -76,9 +76,12 @@ SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
 30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
 
-32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 
-![image](https://user-images.githubusercontent.com/107088999/202961226-4d9d1bb3-d59b-4cdd-b0a1-81758dd48e9f.png)
+
+32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5 80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
+
+![image](https://user-images.githubusercontent.com/107088999/203066866-164974e6-5689-4774-8fdf-36fde4dd9ad2.png)
+
 
 34. Encuentre R1, R2 y R3 en la figura 5-82.
 
@@ -147,7 +150,139 @@ SECCIÓN 5–10 Localización de fallas
 
 
 
+CAPITULO N6
 
+SECCIÓN 6–1 Resistores en paralelo
+
+2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+![image](https://user-images.githubusercontent.com/107088999/203067841-56a56055-5f4d-445c-888c-f61a2ac5ddcf.png)
+
+
+SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
+
+4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor.
+
+
+6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
+
+
+8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/107088999/203068626-d8e1f2e0-e11a-4fae-b60c-b590c0ede12c.png)
+
+SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
+
+
+10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de:50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+
+
+*12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica.
+
+
+
+SECCIÓN 6–4 Resistencia total en paralelo
+
+14. Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determine la resistencia total.
+
+
+
+16. Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+![image](https://user-images.githubusercontent.com/107088999/203069198-c649c05a-883f-4f1c-831d-4c1619eb9a6c.png)
+
+
+18. Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+
+20. Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?
+
+
+![image](https://user-images.githubusercontent.com/107088999/203069654-9a90c50d-1db7-4d86-a3a9-5bc4828dbc08.png)
+
+
+SECCIÓN 6–5 Aplicación de la ley de Ohm
+
+22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+![image](https://user-images.githubusercontent.com/107088999/203069896-41851475-ebe8-4ca8-95fe-c8120a7f3a28.png)
+
+
+24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+
+26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74.
+
+![image](https://user-images.githubusercontent.com/107088999/203070596-92bd678d-aa8a-4ff9-8088-07c6f47c8d76.png)
+
+28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76.
+
+
+SECCIÓN 6–6 Fuentes de corriente en paralelo
+
+30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
+
+![image](https://user-images.githubusercontent.com/107088999/203071071-e37d37ca-2957-4ca1-9687-4c5583ac5b4c.png)
+
+
+SECCIÓN 6–7 Divisores de corriente
+
+32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![image](https://user-images.githubusercontent.com/107088999/203071323-abba354b-55a1-4df2-811c-1ccd6c0cd23a.png)
+
+
+34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+![image](https://user-images.githubusercontent.com/107088999/203071608-e94322af-3d83-42e9-b31f-528a6875c2ac.png)
+
+
+* 36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 Æ.
+
+
+SECCIÓN 6–8 Potencia en circuitos en paralelo
+
+38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+
+40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+
+
+*42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, de-
+termine lo siguiente:
+
+(a) El número de resistores 
+
+(b) El valor de cada resistor
+
+(c) La corriente en cada rama 
+
+(d) El voltaje aplicado
+
+
+SECCIÓN 6–10 Localización de fallas
+
+44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
+
+![image](https://user-images.githubusercontent.com/107088999/203072454-2882c19a-1d94-4e9e-9cf0-dc7d0cbf5fd5.png)
+
+46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?
+
+![image](https://user-images.githubusercontent.com/107088999/203072687-a8b400b4-9113-4597-b495-e15be1eab550.png)
+
+
+*48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4:
+
+(a) 1 y 2 
+
+(b) 2 y 3 
+
+(c) 3 y 4 
+
+(d) 1 y 4
 
 
 
