@@ -19,6 +19,8 @@ SECCIÓN 5–1 Resistores en serie
 
 ![image](https://user-images.githubusercontent.com/107088999/202955792-e1e65125-e8f5-4470-ad2e-1b06d47605b7.png)
 
+![image](https://user-images.githubusercontent.com/107088999/203151603-0ac6e907-47f9-40c2-8a1d-21dc1ab3c27c.png)
+
 
 4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
 
