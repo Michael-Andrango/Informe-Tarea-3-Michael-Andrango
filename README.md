@@ -27,27 +27,62 @@ SECCIÓN 5–1 Resistores en serie
 
 SECCIÓN 5–2 Corriente en un circuito en serie
 
-6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Æ?
+6. ¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
+
+
+R: La corriente que pasa por cada resistor es de 0.1A ya que la corriente que pasa atraves de cada resistor de un circuito en serie es la misma.
+
 
 8. Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?
+
 
 SECCIÓN 5–3 Resistencia total en serie
 
 10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 Ω, 2.2 Ω, 5.6 Ω, 12 Ω, y 22 Ω. Determine la resistencia total.
 
+
+RT= R1 + R2 + R3 + R4 + Rn
+
+Reemplazo
+
+RT= 1.0 Ω + 2.2 Ω + 5.6 Ω + 12 Ω + 22 Ω = 42.8 Ω
+
+
 12. Calcule la RT en cada circuito de la figura 5-71.
 
 ![image](https://user-images.githubusercontent.com/107088999/202957679-14bde44c-436c-474e-bc1a-bb92f024e619.png)
 
+a) 1.0 kΩ + 5.6 kΩ + 2.2 kΩ = 8.8 kΩ
+
+b) 4.7 Ω + 10 Ω + 12 Ω + 1.0 Ω = 27.7 Ω
+
+c) 1 MΩ + 560 kΩ + 5.6 MΩ + 68 kΩ +10 MΩ = 17.228 MΩ
+
+
+
 14. Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
+
+RT= 56 Ω(6) + 100 Ω (8) + 22 Ω (2) = 1.18 KΩ
 
 
 *16. Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1.0 kΩ, 2.2 kΩ, y 5.6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
+
+La combinacion que utilizaria seria: 
+
+Tres resistencias 5.6 k Ω = 16.8 kΩ
+ 
+Una resistencia de 1 kΩ   =  1   kΩ
+
+Dos resistencias 100 Ω    =   200 Ω
+ 
+Resistencia total         = 18 kΩ  
 
 
 18. En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
 
 ![image](https://user-images.githubusercontent.com/107088999/202960162-db16b089-14c1-483c-9d09-620e16cfc7b0.png)
+
+![image](https://user-images.githubusercontent.com/107088999/203188362-bfc8ac84-a05b-4515-b59a-ec1f004bc26a.png)
 
 
 SECCIÓN 5–4 Aplicación de la ley de Ohm
@@ -56,8 +91,12 @@ SECCIÓN 5–4 Aplicación de la ley de Ohm
 
 ![image](https://user-images.githubusercontent.com/107088999/202960358-71c1c735-d124-40ae-8225-45e902c32835.png)
 
-22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el
-valor de cada resistor?
+![image](https://user-images.githubusercontent.com/107088999/203196583-0569c802-417b-4bef-b12f-8ab072a2be9d.png)
+
+
+22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?
+
+R: El valor de cada resistencia seria de 560 Ω aproximadamente.
 
 
 24. Determine VR1, R2 y R3 en la figura 5-76.
