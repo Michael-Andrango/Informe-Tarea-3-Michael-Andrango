@@ -101,32 +101,52 @@ R: El valor de cada resistencia seria de 560 Ω aproximadamente.
 
 24. Determine VR1, R2 y R3 en la figura 5-76.
 
-![image](https://user-images.githubusercontent.com/107088999/202960689-0eef3302-a4bb-4d23-9fa8-5fcef0a89cd0.png)
+![image](https://user-images.githubusercontent.com/107088999/203197446-d55d8e94-209b-4c60-a04f-bdef2d083b59.png)
+
+
 
 
 26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 
-![image](https://user-images.githubusercontent.com/107088999/202960971-d4c86dec-5b12-4d7c-836e-25108e79117c.png)
+![image](https://user-images.githubusercontent.com/107088999/203198014-50e6a333-e830-4b4d-aca8-9fdaa2e45ec5.png)
+
+![image](https://user-images.githubusercontent.com/107088999/203208924-74cae662-1c54-45af-bed7-1916889508d9.png)
 
 
 SECCIÓN 5–5 Fuentes de voltaje en serie
 
 28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
 
+R: 9 V 
+
 SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
 30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
 
-
+R: VT= Suma de las caidas de voltaje   VT= 5.5V + 8.2V + 12.3V = 26V
 
 32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5 80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 
 ![image](https://user-images.githubusercontent.com/107088999/203066866-164974e6-5689-4774-8fdf-36fde4dd9ad2.png)
 
+(a)
+
+15V= 2V + V2 + 3.2V + 1V + 1.5V + 0.5V DESPEJO V2
+
+-V2 = -15V + 8.2V
+
+V2= 6.8V
+
+(b)
+
+
+
+
 
 34. Encuentre R1, R2 y R3 en la figura 5-82.
 
-![image](https://user-images.githubusercontent.com/107088999/202961366-ef14320a-7462-4534-8da5-f7435cea332b.png)
+![image](https://user-images.githubusercontent.com/107088999/203214802-c27c8ab1-06ad-4b83-8781-db89455ed5ba.png)
+
 
 
 36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
@@ -137,6 +157,9 @@ SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 SECCIÓN 5–7 Divisores de voltaje
 
 38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+
+![image](https://user-images.githubusercontent.com/107088999/203215506-6feff6e6-b2a2-4a78-aea1-cc1401c35713.png)
+
 
 
 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
