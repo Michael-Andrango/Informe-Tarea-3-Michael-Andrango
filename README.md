@@ -160,6 +160,17 @@ SECCIÓN 5–7 Divisores de voltaje
 
 ![image](https://user-images.githubusercontent.com/107088999/203215506-6feff6e6-b2a2-4a78-aea1-cc1401c35713.png)
 
+(a)
+
+RT= 156Ω
+
+V(A-B)=(56Ω / 156Ω) x 12V = 4.30V
+
+(b)
+
+RT= 6.5 KΩ
+
+V(A-B)= (2.2 kΩ + 3.3 kΩ / 6.5 kΩ) x 8V = 6.76 V
 
 
 40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
