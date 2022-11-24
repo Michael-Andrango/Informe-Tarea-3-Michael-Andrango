@@ -5,9 +5,23 @@ OBJETIVOS
 
 1.2 Conocer la estructura de la cual parte voltaje, corriente, resistencia para tener claro sus conceptos y desarollarlo en ejercicios.
 
-MARCO TEORICO
+2. MARCO TEORICO
+
+![White Black Simple Idea Brainstorm Graphic Organizer](https://user-images.githubusercontent.com/107088999/203699812-f20257bb-a683-4623-a034-a9953e246ba1.jpg)
+
+![Needs vs Wants Financial Education Graphic Organizer in Dark Blue Yellow Red Bold Shapes Style](https://user-images.githubusercontent.com/107088999/203702051-7d3f9e0c-1ff1-456c-8d00-34046201f86d.jpg)
+
+![Folleto tríptico Flyer Academia de clases de repaso escolar Doodle Marrón y blanco](https://user-images.githubusercontent.com/107088999/203703965-a2e1cf30-f5ea-4b13-9e06-b1d74873c1f4.jpg)
+
+![Marrón Negro Visión Misión Diagrama de Venn](https://user-images.githubusercontent.com/107088999/203705783-dc6d7c68-5fdd-49e4-ba92-b61441161857.jpg)
 
 
+CAPTULO 6
+
+![Gráfico Mapa Mental Conceptos Bombilla Lluvia de Ideas Orgánico Multicolor](https://user-images.githubusercontent.com/107088999/203707757-e931a3c6-c9e9-4963-be89-4dab5e69195d.jpg)
+
+
+![Esquema Mapa Conceptual Doodle Multicolor](https://user-images.githubusercontent.com/107088999/203709935-54f2e7e5-5837-4ba2-8d79-52b846b459a9.jpg)
 
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
