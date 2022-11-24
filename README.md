@@ -176,7 +176,8 @@ V5 = 4V
 33. En el circuito de la figura 5-81, determine la resistencia de R4.
 
 
-![image](https://user-images.githubusercontent.com/107088999/203685148-76218749-66fa-4a4b-90a7-95622534f92d.png)
+![image](https://user-images.githubusercontent.com/107088999/203696725-6d11b483-a88a-4016-9fab-35256dc899ab.png)
+
 
 
 35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
@@ -233,7 +234,8 @@ SECCIÓN 5–9 Mediciones de voltaje
 51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.
 
 
-![image](https://user-images.githubusercontent.com/107088999/203688557-f375b8d1-f5bd-4a58-9f25-220fcc74509a.png)
+![image](https://user-images.githubusercontent.com/107088999/203696856-f450899c-dcdb-4648-9f93-b13255010a16.png)
+
 
 
 53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
