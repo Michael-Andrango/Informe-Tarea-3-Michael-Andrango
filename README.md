@@ -1,9 +1,15 @@
 # Informe-Tarea-3-Michael-Andrango
 
-OBJETIVOS
-1.1 Utilizar de forma correcta las unidades de medicion identificando mediante sus simbolos, para conversiones y sus notaciones tanto cientificas como de ingenieria
+UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
-1.2 Conocer la estructura de la cual parte voltaje, corriente, resistencia para tener claro sus conceptos y desarollarlo en ejercicios.
+NOMMBRE: MICHAEL ANDRANGO 
+
+
+1. OBJETIVOS
+
+1.1 Determinar las distintas formas de medicion en los circuitos serie y paralelo en sus distintas leyes y fundamentos estudiados para su debida aplicacion. 
+
+1.2 Aplicar las leyes de kirchoff de voltajes y corrientes para el desarrollo de los ejercicios planteados y con ello tener claro su aplicacion debida
 
 2. MARCO TEORICO
 
@@ -678,12 +684,16 @@ c) Existe un corto ya que no interviene ninguna conexión en las puntas de las r
 d) No existe un corto, está correcto
 
 
-5. CONCLUSIONES:
+5. CONCLUSIONES
+
+
+
 
 6. VIDEO 
 
 7. BIBLIOGRAFIA 
 
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
 
 
 
