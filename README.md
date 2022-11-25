@@ -686,8 +686,9 @@ d) No existe un corto, está correcto
 
 5. CONCLUSIONES
 
+En fin como todo trabajo la teoria ha sido fundamental para entender de forma mas clara el uso de cada uno de los temas planteados en cada capitulo.
 
-
+Para finalizar el trabajo propuesto se lo a podido lograr de una manera mas facil gracias al buen analisis realizado de su teoria y asi poder aplicar los distintos casos que se presentan en los circuitos para trabajos posteriores.
 
 6. VIDEO 
 
@@ -695,7 +696,7 @@ d) No existe un corto, está correcto
 
 Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
 
-
+Zapata, F. (2021).https://www.lifeder.com/circuito-paralelo/
 
 
 
