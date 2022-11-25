@@ -417,7 +417,7 @@ d) 1/RT = 1/1.0MΩ + 1/0.47MΩ + 1/0.001MΩ + 1/2.7MΩ
 
 1/RT = 1.2744/0.0013MΩ = RT = 0.0013MΩ/1.2744 = 994Ω
 
-17. ¿Cuál es la resistencia total de doce resistores de 6.8 kÆ dispuestos en paralelo?
+17. ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?
 
 FORMULA A UTILIZAR
 
@@ -470,7 +470,7 @@ RT = 1/0.0052kΩ = 193kΩ
 
 SECCIÓN 6–5 Aplicación de la ley de Ohm
 
-23. Tres resistores de 33 Æ están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+23. Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
 
 R:
 
