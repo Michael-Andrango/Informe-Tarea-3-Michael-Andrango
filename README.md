@@ -692,6 +692,8 @@ Para finalizar el trabajo propuesto se lo a podido lograr de una manera mas faci
 
 6. VIDEO 
 
+https://www.youtube.com/watch?v=EohixWs55fc
+
 7. BIBLIOGRAFIA 
 
 Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
